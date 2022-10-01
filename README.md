@@ -1,4 +1,4 @@
-# awesome-cybersecurity-resources-and-references
+
 <h1 align="center">
   <b>Awesome Cybersecurity Resources and References</b> <img src="https://github.com/edoardottt/images/blob/main/awesome-hacker-search-engines/awesome.svg"/>
 </h1>
